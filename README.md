@@ -11,14 +11,14 @@ In this project, I have worked on Full Stack Web Development using Node.js and E
 
 * Home page
 
-![Screenshot 2024-11-11 205336](https://github.com/user-attachments/assets/533941cb-4052-4e7b-9c26-a2d78ae7e823)
+![Image](https://github.com/user-attachments/assets/f9acea99-a2c2-43ae-9b72-69a7fe97d2e4)
 
 
 * Adim Dashboard 
 
-![Screenshot 2024-11-10 172817](https://github.com/user-attachments/assets/8baeb4f0-f823-4fb7-84a1-47f26baf1aab)
+![Image](https://github.com/user-attachments/assets/ea90c0e4-2f06-48f8-919c-da7d5c701893)
 
 * Blog
 
-![Screenshot 2024-11-10 172854](https://github.com/user-attachments/assets/cf58297f-5e5b-4f63-b6e4-ed66e431ef0f)
+![Image](https://github.com/user-attachments/assets/2c18711e-f027-49b8-affc-7a394767d21b)
 
